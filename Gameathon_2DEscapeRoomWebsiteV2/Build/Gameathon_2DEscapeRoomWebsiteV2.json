@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Gameathon_2DEscapeRoom",
+"productVersion": "0.1",
+"dataUrl": "Gameathon_2DEscapeRoomWebsiteV2.data.unityweb",
+"wasmCodeUrl": "Gameathon_2DEscapeRoomWebsiteV2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Gameathon_2DEscapeRoomWebsiteV2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.1f1"
+}
