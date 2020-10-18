@@ -1,0 +1,3 @@
+#!/bin/bash
+
+clang-format --style=file -i ./Assets/Scripts/*.cs ./Assets/Scripts/Game_Intro/*.cs ./Assets/Scripts/Character/*.cs ./Assets/Scripts/Levels/*.cs ./Assets/Scripts/Levels/IntroductionLevel/*.cs ./Assets/Scripts/Levels/EasyLevel/*.cs ./Assets/Scripts/LevelSelection/*.cs
